@@ -1,0 +1,26 @@
+# Compiled files
+*.class
+target/
+*.jar
+*.war
+*.ear
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+out/
+
+# Maven
+.mvn/
+mvnw
+mvnw.cmd
+
+# Mac
+.DS_Store
+
+# Logs
+*.log
+
+# Spring Boot
+spring.log
